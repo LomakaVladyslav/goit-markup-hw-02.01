@@ -1,0 +1,45 @@
+body {
+  color: #2e2f42;
+  background-color: #ffffff;
+}
+
+.title {
+  font-family: "Raleway";
+  font-size: 18px;
+}
+
+.title-blue {
+  color: #4d5ae5;
+}
+
+.effective {
+  background-color: #2e2f42;
+}
+
+h1 {
+  color: white;
+  font-size: 56px;
+  letter-spacing: 2%;
+  text-align: center;
+}
+
+button {
+  color: white;
+  background-color: #4d5ae5;
+}
+button:hover {
+  background-color: #404bbf;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: #434455;
+}
+
+a:hover {
+  color: #404bbf;
+}
